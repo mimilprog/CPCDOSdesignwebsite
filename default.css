@@ -44,5 +44,5 @@
     background-color: rgb(0, 132, 255);
     height: 50px;
     border-radius: 50px;
-    animation: 5s ease-in-out infinite;
+    animation: loadL 5s ease-in-out infinite;
 }
