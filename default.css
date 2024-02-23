@@ -2,7 +2,7 @@
     display: grid;
     position: absolute;
     align-self: center;
-    width: 30%;
+    width: 50%;
 }
 .load{
     display: flex;
