@@ -3,6 +3,7 @@
     position: absolute;
     align-self: center;
     width: 50%;
+    height: 50%;
 }
 .load{
     display: flex;
