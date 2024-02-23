@@ -2,6 +2,7 @@
     display: grid;
     position: absolute;
     align-self: center;
+    width: 30%;
 }
 .load{
     display: flex;
